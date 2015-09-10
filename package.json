@@ -41,5 +41,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/brianshaler/kerplunk-twilio.git"
-  }
+  },
+  "license": "MIT"
 }
