@@ -2,7 +2,7 @@
   "name": "kerplunk-twilio",
   "displayName": "Twilio",
   "description": "Text yo self before you wreck yo self",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "kerplunk": {
     "permissions": {
       "kerplunk-identity": {
